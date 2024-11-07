@@ -8,17 +8,17 @@ Currently, I am diving deep into web development , AI/Machine Learning and  prog
 
 ## Skills & Technologies
 
-react,html,css,js,django,ai,bootstrap,c,docker,dotnet,mysql,nodejs,py,sklearn,tensorflow,vite
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,django,ai,bootstrap,c,docker,dotnet,mysql,nodejs,py,sklearn,tensorflow,vite&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- [bodeplot](https://github.com/Akshay022024/bodeplot) - A JavaScript project for creating Bode plots. Stars: 0 | Language: JavaScript | Forks: 0 | Issues: 0
-- [vivekmedicalcoding](https://github.com/Akshay022024/vivekmedicalcoding) - A project dedicated to the Vivek Medical Coding institute in Kurnool. Stars: 0 | Language: HTML | Forks: 0 | Issues: 0
+
+
 
 ## GitHub Stats
-
 Public Repositories: 2 | Followers: 1 | Following: 1
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshay022024&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay022024&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
