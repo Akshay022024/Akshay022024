@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay022024" alt="akshay022024" /></a> </p>
 
-- 🌱 I’m currently learning **Aqumatica, Magento**
+- 🌱 I’m currently learning **Aqumatica, Magento and .Net**
 
 - 👯 I’m looking to collaborate on **exciting web development and app development projects.**
 
