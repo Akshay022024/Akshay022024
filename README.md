@@ -1,35 +1,31 @@
-## Hi there! 👋
+<h1 align="center">Hi 👋, I'm Akshay</h1>
+<h3 align="center">💻Aspiring Software Developer with a passion for building dynamic web and mobile applications.</h3>
 
-I'm Nandigam Akshay, a passionate developer who loves exploring new technologies and building innovative and helpfull projects. Welcome to my GitHub profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay022024&label=Profile%20views&color=0e75b6&style=flat" alt="akshay022024" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay022024" alt="akshay022024" /></a> </p>
 
-Currently, I am diving deep into web development , AI/Machine Learning and  programming. While I am not affiliated with any specific company, I am constantly seeking opportunities to learn and grow. I'm enthusiastic about collaborating with others and contributing to exciting projects.
+- 🌱 I’m currently learning **Aqumatica, Magento**
 
-## Skills & Technologies
+- 👯 I’m looking to collaborate on **exciting web development and app development projects.**
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,django,ai,bootstrap,c,docker,dotnet,mysql,nodejs,py,sklearn,tensorflow,vite&perline=8)](https://skillicons.dev)
+- 💬 Ask me about **Tech trends, productivity hacks, or just brainstorming creative ideas**
 
-## Top Projects
+- 📫 How to reach me **akshay.nandigam@gmail.com**
 
+- ⚡ Fun fact **I can spend hours debugging code but still forget where I put my coffee! ☕💻**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/n akshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n akshay" height="30" width="40" /></a>
+<a href="https://instagram.com/reactivate_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reactivate_._" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## GitHub Stats
-Public Repositories: 2 | Followers: 1 | Following: 1
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshay022024&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay022024&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay022024&show_icons=true&locale=en&layout=compact" alt="akshay022024" /></p>
 
-## Recent Activity
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay022024&show_icons=true&locale=en" alt="akshay022024" /></p>
 
-- Pushed to [bodeplot](https://github.com/Akshay022024/bodeplot) on 2024-10-24
-- Created [vivekmedicalcoding](https://github.com/Akshay022024/vivekmedicalcoding) on 2024-10-16
-- Updated [bodeplot](https://github.com/Akshay022024/bodeplot) on 2024-09-21
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts or articles to share.
-
-## Connect with Me
-
-{https://www.linkedin.com/in/n-akshay-0906b022b/}
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay022024&" alt="akshay022024" /></p>
